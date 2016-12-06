@@ -2,7 +2,7 @@ import urllib
 from bs4 import BeautifulSoup
 
 import os
-proxy = 'http://111503022:ghodakevv15.comp_111503022@10.1.101.150:3128'
+proxy = 'http://username:password@proxyserver:port'
 os.environ['http_proxy'] = proxy
 os.environ['HTTP_PROXY'] = proxy
 os.environ['https_proxy'] = proxy
