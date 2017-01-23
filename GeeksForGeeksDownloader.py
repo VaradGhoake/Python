@@ -1,3 +1,9 @@
+#Make changes where there is *
+#Catagory-wise searching is possible
+
+
+
+
 import urllib
 from bs4 import BeautifulSoup
 
